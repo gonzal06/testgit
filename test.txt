@@ -1,1 +1,3 @@
 This is my first text file.
+
+I have added some more information to this. Let's see if the GIT works
